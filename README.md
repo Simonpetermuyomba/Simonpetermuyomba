@@ -1,8 +1,6 @@
-<img src="https://github.com/simonpetermuyomba/simonpetermuyomba/blob/main/A_professional_digital_graphic_banner_features_Sim.png" alt="Simon Peter Muyomba Banner" style="width:100%;"/>
-<div align="center">
-  <img src="https://github.com/simonpetermuyomba/simonpetermuyomba/blob/main/A_professional_digital_graphic_banner_features_Sim.png" alt="Simon Peter Muyomba Banner" style="width:100%;"/>
-</div>
 
+<img src="![image](https://github.com/user-attachments/assets/3ab2346a-4d31-4a4a-a316-b56fca6d46d5)
+" alt="Simon Peter Muyomba Banner" style="width:100%;"/>
 # 👋 Hi, I'm Simon Peter Muyomba
 
 I'm an **aspiring IT Support / Network Support Technician** with a passion for building and maintaining reliable networks. I'm transitioning from human services into tech and currently sharpening my skills through self-study and certification.
