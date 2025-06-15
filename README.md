@@ -1,4 +1,4 @@
-<img src="https://github.com/simonpetermuyomba/githug-banner.png">
+<img src="https://github.com/simonpetermuyomba/sionpetermuyomba/github-banner.PNG">
 # 👋 Hi, I'm Simon Peter Muyomba
 
 I'm an **aspiring IT Support / Network Support Technician** with a passion for building and maintaining reliable networks. I'm transitioning from human services into tech and currently sharpening my skills through self-study and certification.
