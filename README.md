@@ -24,6 +24,7 @@ Based in Haverhill, MA – Open to remote and on-site IT roles in the U.S.
 
 ### 📬 Contact
 - **Email**: simonmuyp@gmail.com
+- **phone-Number**:+1-978-2210905
 - **LinkedIn**: [Insert your LinkedIn URL if available]
 
 Thanks for visiting! 🚀
