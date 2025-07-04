@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Simonpetermuyomba/Simonpetermuyomba/blob/main/github.PNG">
+<img src="https://github.com/Simonpetermuyomba/Simonpetermuyomba/blob/main/pic.PNG">
 </div>
 
 # 👋 Hi, I'm Simon Peter Muyomba
