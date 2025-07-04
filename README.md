@@ -8,6 +8,7 @@ I'm an **aspiring IT Support / Network Support Technician** with a passion for b
 
 ### 🎓 Certifications
 - Cisco Certified Network Associate (CCNA)
+- Certified Scrum Master (CSM) - Scrum Alliance
 
 ### 🛠️ Skills
 - Cisco CLI, Packet Tracer
