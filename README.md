@@ -104,7 +104,7 @@ B.Sc. Information Technology (US Equivalent)
 
 - 📍 Haverhill, MA, USA  
 - 📧 [simonmuyp@gmail.com](mailto:simonmuyp@gmail.com)  
-- 💼 [LinkedIn](#) (https://wwww.linkdeln.com/in/petermuyomba)  
+- 💼 [LinkedIn](www.linkedin.com/in/petermuyomba)  
 - 🖥️ [GitHub](https://github.com/Simonpetermuyomba)
 
 ---
