@@ -2,7 +2,7 @@
 <img src="https://github.com/Simonpetermuyomba/Simonpetermuyomba/blob/main/pic.PNG">
 </div>
 
-# 👋 Hi, I'm Simon Peter Muyomba
+# 👋 Oli otya! I'm Simon Peter Muyomba
 
 ## About Me
 
