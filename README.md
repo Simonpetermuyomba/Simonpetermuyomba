@@ -4,48 +4,99 @@
 
 # 👋 Hi, I'm Simon Peter Muyomba
 
-🎯 **Certified Scrum Master | Aspiring Network Engineer | Healthcare IT Specialist**
+## About Me
 
-Welcome to my GitHub! I'm a Certified Scrum Master with a strong foundation in Agile frameworks, networking, and technical support. I bring a unique combination of healthcare IT experience and a passion for infrastructure and operations. My mission is to continuously learn, build, and contribute to systems that improve productivity, security, and collaboration.
+I am a Healthcare IT and technical support professional with extensive experience in supporting clinical operations, troubleshooting medical devices, and enhancing documentation workflows. I have a strong background in patient-facing environments and a keen interest in leveraging technology to improve healthcare delivery.
 
----
-
-## 🔧 Skills & Tools
-
-- **Networking:** TCP/IP, OSPF, VLANs, Routing & Switching, DHCP, NAT  
-- **Agile Frameworks:** Scrum, Kanban, SDLC  
-- **Tools:** Cisco Packet Tracer, Wireshark, GNS3, Jira, Confluence, Trello  
-- **Security:** Network Security, Vulnerability Management, Incident Response  
-- **Scripting Languages:** Python, JavaScript, Bash  
-- **Soft Skills:** Communication, Documentation, Cross-functional Collaboration
+Currently, I am pursuing a Graduate Certificate in Healthcare Informatics at UMass Lowell, where I aim to deepen my expertise in EHR systems, clinical data management, and health information technology.
 
 ---
 
-## 📂 Featured Projects
+## Core Skills
 
-- **Agile Workflow Implementation:** Introduced Scrum ceremonies to enhance visibility and reduce support ticket rollover.
-- **Multi-VLAN Network Simulation:** Designed and configured VLANs, trunking, and static routing in Cisco Packet Tracer.
-- **Packet Traffic Analysis:** Used Wireshark to analyze ICMP, TCP, and DNS traffic for anomaly detection.
-- **Health IT Capstone:** Completed a comprehensive 4-course training on HIPAA-compliant systems and healthcare IT support.
+### Healthcare IT
+- EHR Support (Epic, Meditech – familiarity)
+- Health Data Analytics
+- Telehealth Systems
+- Clinical Documentation Workflows
+- Clinical Decision Support
+- HIPAA Compliance
+- Healthcare Quality and Safety
+- Medical Device Support
+
+### Technical & IT Support
+- Troubleshooting
+- Ticketing Systems
+- Technical Issue Escalation
+- Customer Support (Phone/Email/Chat)
+- Root-Cause Analysis
+- Device/Software Configuration
+- System Testing
+- Reporting & Documentation
+
+### Tools & Platforms
+- Epic (familiarity)
+- Meditech
+- Salesforce
+- Jira
+- Git
+- Postman
+- REST APIs
+- Agile/Scrum
+- MS Office/Excel
+- Python
+- SQL
+- JavaScript
+- MongoDB
+- MySQL
 
 ---
 
-## 📚 Currently Learning
+## Professional Experience
 
-- 🧠 Preparing for **CCNA Certification** (Cisco Certified Network Associate)
-- ⚙️ Deepening my knowledge in **network design** and **cybersecurity fundamentals**
+### Commonwealth of Massachusetts — Haverhill, MA
+**Direct Support Worker (DSW1)**  
+*02/2025–Present*  
+- Improved clinical documentation accuracy by 30% through meticulous data entry and adherence to healthcare standards.
+- Supported clinicians by capturing accurate medical and behavioral data used in patient care decisions.
+- Contributed data insights during interdisciplinary meetings to improve care coordination workflows.
+
+### Melmark New England — Methuen, MA
+**ABA Residential Counselor**  
+*11/2024–Present*  
+- Maintained 100% compliance with documentation and HIPAA standards.
+- Utilized digital data collection tools to support healthcare teams and improve patient outcomes.
+- Implemented monitoring systems contributing to a 20% reduction in behavioral incidents.
+
+### Insulet Corporation — Remote
+**Senior Product Support Specialist**  
+*05/2021–11/2024*  
+- Achieved 95% customer satisfaction while providing technical support for medical devices.
+- Reduced escalations by 30% collaborating with engineering.
+- Documented cases in Salesforce/Jira, optimizing workflows.
 
 ---
 
-## 💼 Experience Highlights
+## Education
 
-- **Senior Product Support Specialist @ Insulet Corp (Remote):**
-  - Reduced blockers by 25% via Agile feedback loops
-  - Cut recurring security issues by 30% through vulnerability analysis
+**UMass Lowell**  
+Graduate Certificate in Healthcare Informatics (In Progress, 2026)
 
-- **ABA Residential Counselor @ Melmark New England:**
-  - Improved team crisis response time by 40%
-  - Achieved 100% HIPAA compliance in client documentation
+**Nkumba University**  
+B.Sc. Information Technology (US Equivalent)
+
+---
+
+## Additional Skills
+
+- Networking (CCNA self-study)
+- Subnetting, VLANs
+- EHR Workflows
+- API Testing (Postman)
+- Data Visualization
+- Scripting (Python, SQL)
+- Communication & Cross-Functional Collaboration
+
 
 ---
 
@@ -53,7 +104,7 @@ Welcome to my GitHub! I'm a Certified Scrum Master with a strong foundation in A
 
 - 📍 Haverhill, MA, USA  
 - 📧 [simonmuyp@gmail.com](mailto:simonmuyp@gmail.com)  
-- 💼 [LinkedIn](#) (Add your link)  
+- 💼 [LinkedIn](#) (https://wwww.linkdeln.com/in/petermuyomba)  
 - 🖥️ [GitHub](https://github.com/Simonpetermuyomba)
 
 ---
